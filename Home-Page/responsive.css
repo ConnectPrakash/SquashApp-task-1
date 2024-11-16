@@ -1,0 +1,62 @@
+@media  screen and (max-width:500px) {
+    .Home-content h2{
+        padding-bottom:40px;
+        width:400px;
+        font-size: 30px;
+
+    }
+    .Home-content p{
+         padding-bottom: 40px;
+    }
+    /* Home-surfboards */
+.Home-surfboards-content{
+   text-align: center;
+}
+.Home-surfboards-content-content p{
+    
+     font-size: 18px !important;
+}
+.Home-surfboards-content-content .Home-surfboards-content-para{
+    font-size: 40px !important;
+}
+.Home-about-surfboards{
+    margin-top: -60px !important;
+}
+.Home-about-surfboards2{
+    margin-top: -60px !important;
+
+}
+.Home-product-content{
+    justify-content: center;
+    margin-left: 10%;
+}
+.Home-surfboards-content-content {
+    margin-top: 100px !important;
+    margin-bottom: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.Home-surfboards-content-content #Home-p{
+font-size: 30px !important;
+margin-left: -90px;
+}
+.Home-review-1{
+    margin-bottom: 20px;
+}
+.Home-footer-right{
+   padding-left: -20% !important;
+   display: flex;
+   justify-content: start !important;
+}
+#hiddenDiv.visible{
+    width: 70% !important;
+    height: 42% !important;
+}
+.Home-cart-1-right i{
+    position: absolute !important;
+    right: 0px !important;
+    top:0px !important;
+}
+
+}

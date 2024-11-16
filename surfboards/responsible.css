@@ -1,0 +1,19 @@
+@media screen and (max-width:500px) {
+    .surfboards-content-left{
+        text-align: center;
+    } 
+    .surfboards-header {
+       width: 100% !important;
+       text-align: justify !important;
+       padding:2%;
+    }
+    #hiddenDiv.visible{
+        width: 70% !important;
+        height: 42% !important;
+    }
+    .Home-cart-1-right i{
+        position: absolute !important;
+        right: 0px !important;
+        top:0px !important;
+    }
+}

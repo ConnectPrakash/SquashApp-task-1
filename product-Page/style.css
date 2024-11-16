@@ -1,0 +1,164 @@
+*{
+    font-family: "Roboto", sans-serif;
+  }
+  .fa-solid{
+      color: black !important;
+      margin-right: 50px;
+  }
+  .navbar-brand h2{
+      font-weight: 600;
+      font-size: 40px !important;
+      margin-left: 100px;
+      font-family: "Roboto", sans-serif;
+      font-weight: 500;
+     
+  }
+  .nav-link{
+      color: black !important;
+  }
+  .Home-nav-cart{
+      font-size: 20px;
+      
+  }
+  .nav-item{
+      padding-right: 20px;
+      font-size: 18px;
+      font-family: "Roboto", sans-serif;
+  }
+  .nav-item a:hover{
+      color:rgb(143, 139, 139) !important;
+  }
+  @media  screen and (max-width:600px) {
+      .navbar-toggler{
+          margin-left: auto !important;
+      }
+      .Home-nav-cart{
+          margin-left: auto;
+          margin-right: 0;
+      }
+  
+  }
+
+  /* Home-nav */
+  .Home-div{
+    padding:50px 0px;  
+  }
+  .Home-div-header{
+    font-size: 48px;
+  padding-bottom: 30px;
+  }
+  .Home-div-header-2{
+    padding-bottom: 40px;
+  }
+  .Home-div-para{
+    font-size: 20px;
+  }
+  .Home-div-para-2{
+    color:rgba(51, 51, 51, 0.699);
+    line-height: 27px;
+    font-size: 20px;
+    padding-bottom: 40px;
+
+  }
+  .Home-div-right button{
+   width: 100%;
+   padding:16px;
+   font-size: 18px;
+   color: white;
+   background: rgb(243, 92, 34);
+   border:none;
+   margin-bottom: 40px;
+  }
+  
+  .Home-div-right{
+    padding:18px;
+    
+  }
+  .Home-div-right p{
+     font-size: 18px;
+  }
+  /* HOme-content-Product */
+  .Home-content{
+    padding: 100px 0px;
+  }
+  .Home-content h2{
+    font-size: 38px;
+    line-height: 48px;
+    margin-bottom: 18px;
+  }
+  .Home-content p{
+    font-size: 20px;
+    margin-bottom: 30px;
+    color: rgba(0, 0, 0, 0.59);
+  }
+  .Home-products-1{
+    width:100%;
+    height: 300px;
+  }
+  .Home-products-1 img{
+    width: 100%;
+    height: 100%;
+  }
+  .Home-products h2{
+    margin-bottom: 22px;
+  }
+  .Home-products-1 p{
+    margin-top: 20px;
+  }
+  /* Home-cart */
+#hiddenDiv{
+  width:54%;
+  background-color: white;
+  height: 58%;
+  position: fixed;
+  z-index: 1; 
+  top:20%;
+  left: 20%;
+display: none;
+
+}
+#hiddenDiv.visible{
+  width:54%;
+  background-color: white;
+  height: 58%;
+  position: fixed;
+  z-index: 1; 
+  top:20%;
+  left: 20%;
+  display: block;
+}
+.Home-cart-1 h2{
+    padding:38px;
+}
+.Home-cart-1-right i{
+  padding:38px;
+  font-size: 30px;
+}
+.Home-cart-1-right{
+text-align: end;
+}
+.Home-cart-1{
+  width: 100%;
+  height:100px;
+  background-color: rgba(252, 247, 247, 0.785);
+}
+.Home-cart-1-div{
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 30%;
+  margin-top: 5%;
+  border: 1px solid rgba(0, 0, 0, 0.455);
+}
+.Home-cart-1-div p{
+  display: grid;
+  place-content: center;
+  height: 100%;
+}
+#hiddenDiv button{
+  margin-top: 20px;
+  border: none;
+  border-color: aliceblue;
+  padding:12px;
+  margin-left: 50px;
+}

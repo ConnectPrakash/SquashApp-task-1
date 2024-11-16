@@ -1,0 +1,17 @@
+@media screen and (max-width:500px) {
+   .Contact-right{
+    margin-top: 50px !important;
+   }
+   .Home-signup-content{
+    padding:2%;
+   }
+   #hiddenDiv.visible{
+      width: 70% !important;
+      height: 42% !important;
+  }
+  .Home-cart-1-right i{
+      position: absolute !important;
+      right: 0px !important;
+      top:0px !important;
+  }
+}

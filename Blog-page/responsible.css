@@ -1,0 +1,42 @@
+@media screen and (max-width:500px) {
+    .Blog-Blog-1-img {
+        width:100%;
+
+    }
+    .Blog-Blog{
+        padding:0px !important;
+    }
+    .Blog-Blog-1-img {
+        width:100%;
+        height: auto;
+    }
+    .Blog-Blog-head{
+        margin-top: 25%;
+        font-size: 38px;
+    }
+    .Blog-Blog-1{
+        width: 100%;
+        margin-left: 10%;
+    }
+    .Home-signup-content{
+        padding:5%;
+    }
+    .Blog-Blog .Blog-Blog-1{
+        width: 90%;
+    }
+    .Blog-Wydarzenia .Blog-Wydarzenia-card {
+        width:90%;
+    }
+    .Blog-Wydarzenia .Blog-Wydarzenia-card-img img{
+        width:100%;
+    }
+    #hiddenDiv.visible{
+        width: 70% !important;
+        height: 42% !important;
+    }
+    .Home-cart-1-right i{
+        position: absolute !important;
+        right: 0px !important;
+        top:0px !important;
+    }
+}
