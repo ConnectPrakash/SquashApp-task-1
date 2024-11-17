@@ -1,4 +1,13 @@
 @media screen and (max-width:500px) {
+    .Home-content h2{
+        padding-bottom:40px;
+        margin-left: 0px !important;
+        font-size: 30px;
+
+    }
+    .navbar-brand h2 {
+        margin-left: 0px !important;
+        }
    .Contact-right{
     margin-top: 50px !important;
    }
@@ -14,4 +23,9 @@
       right: 0px !important;
       top:0px !important;
   }
+}
+@media screen and (max-width:800px) {
+   .Contact-content .Contact-right {
+    margin-top: 30px;
+   }
 }

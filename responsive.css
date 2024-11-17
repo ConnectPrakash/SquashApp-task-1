@@ -1,7 +1,7 @@
 @media  screen and (max-width:500px) {
     .Home-content h2{
         padding-bottom:40px;
-        width:400px;
+       margin-left: 0px !important;
         font-size: 30px;
 
     }
@@ -59,4 +59,31 @@ margin-left: -90px;
     top:0px !important;
 }
 
+.Home-signup-content {
+    PADDING: 12PX;
+}
+.navbar-brand h2 {
+margin-left: 0px !important;
+}
+
+}
+@media screen and (max-width:800px) {
+   .Home-surfboards .Home-surfboards-content-content {
+        margin-top: 60px !important;
+        width: 40%;
+        margin-right: auto;
+        /* padding: inherit; */
+        display: grid;
+        justify-content: center;
+        margin-left: auto;
+    }
+    .Home-surfboards .Home-surfboards-content-content  .Home-surfboards-content-para{
+        font-size: 40px !important;
+    }
+    .Home-surfboards .Home-surfboards-content p {
+        font-size: 25px;
+    }
+    .Home-surfboards .Home-surfboards-content a{
+        font-size: 25px;
+    }
 }

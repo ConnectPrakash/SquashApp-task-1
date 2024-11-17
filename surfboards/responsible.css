@@ -16,4 +16,7 @@
         right: 0px !important;
         top:0px !important;
     }
+    .navbar-brand h2 {
+        margin-left: 0px !important;
+        }
 }

@@ -3,6 +3,9 @@
         width:100%;
 
     }
+    .navbar-brand h2 {
+        margin-left: 0px !important;
+        }
     .Blog-Blog{
         padding:0px !important;
     }
@@ -38,5 +41,8 @@
         position: absolute !important;
         right: 0px !important;
         top:0px !important;
+    }
+    .Blog-Wydarzenia-card-img {
+        width: 100% !important;
     }
 }
